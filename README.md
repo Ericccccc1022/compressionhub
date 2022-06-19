@@ -78,5 +78,3 @@ The results of `hyperprior18_16`：
 
 ```
 
-![image-20220619150109358](F:\#Pycharm_Projects\compressionhub\source\image-20220619150109358.png)
-
